@@ -8,9 +8,5 @@ redirect_from:
   - /publications.html
 ---
 
-For a full list of publications, please visit my [Google Scholar profile].
-
-List of publications:
-
-2024:
-* Teng J, Lin Q, Bai Z… Young RS (Contributing Author)… Fang L. The Farm Animal Genotype-Tissue Expression (FarmGTEx) Project (2025). 
+2025:  
+* Teng J, Lin Q, Bai Z… Young RS (Contributing Author)… Fang L. The Farm Animal Genotype-Tissue Expression (FarmGTEx) Project (2025). doi: (10.1038/s41588-025-02121-5).
