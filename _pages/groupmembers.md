@@ -25,4 +25,4 @@ Visit my Research Group website: [person.zju.edu.cn/samano](https://person.zju.e
 
 **Contact:** [robert.young@ed.ac.uk](mailto:robert.young@ed.ac.uk)
   
-**Twitter:** [@hugocarloss__](https://twitter.com/r0bah0lic)
+**Twitter:** [@r0bah0lic](https://twitter.com/r0bah0lic)
