@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Rob Young"
-  avatar           : "IMG_5038.jpeg"
-  bio              : "I might be an **amazing** person if I could spell."
+  avatar           : "images/IMG_5038.jpeg"
+  bio              : "I might not be an **amazing** person if I could spell."
   location         : "Edinburgh, UK"
   email            : robert.young@ed.ac.uk
   twitter          : "r0bah0lic"
