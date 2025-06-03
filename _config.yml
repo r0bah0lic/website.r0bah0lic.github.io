@@ -114,9 +114,9 @@ analytics:
 # Site Author
 author:
   name             : "Rob Young"
-  avatar           : "images/IMG_5038.jpg"
-  bio              : "I am not an **amazing** person."
-  location         : "Edinburgh, UK\nZhejiang China"
+  avatar           : "/images/IMG_5038.jpg"
+  bio              : "I am still not an **amazing** person."
+  location         : "Edinburgh, UK"
   email            :
   links:
     - label: "robert.young@ed.ac.uk"
