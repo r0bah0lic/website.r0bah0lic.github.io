@@ -4,7 +4,7 @@ title: "Group members"
 excerpt: "Group members"
 author_profile: true
 redirect_from: 
-  - /groupmembers/
+  - /groupmembers
   - /groupmembers.html
 ---
 
