@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
+Sometimes we go out! 
+
 ![Group trip to the Fringe](/images/bristo_square2_Aug2023.png | width=100)
