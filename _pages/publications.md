@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-For a full list of publications, please visit my [Google Scholar profile](https://scholar.google.co.uk/citations?user=QvmViM0AAAAJ).
+For a full list of publications, please visit my [Google Scholar profile].
 
 List of publications:
 
