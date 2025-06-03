@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : &name "Dr Rob Young"
+name                     : &name "Dr Robert Young"
 description              : &description "Young lab at UoE and ZJE"
 url                      : https://r0bah0lic.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
