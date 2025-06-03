@@ -8,11 +8,23 @@ redirect_from:
   - /groupmembers.html
 ---
 
+Principal Investigator:
+
+Rob Young
+
+PhD Students: 
+
 Shenyi Zhang
 
 Caitlin McNiff
 
 Natasha Arzoo
+
+MSc Students:
+
+Emily Bishop
+
+Max Falk
 
 **Contact:** [robert.young@ed.ac.uk](mailto:robert.young@ed.ac.uk)
   

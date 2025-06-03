@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-First attempt at a lab website
+Work in progress at building a lab website
