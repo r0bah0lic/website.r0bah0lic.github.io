@@ -90,7 +90,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &teitter
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -117,7 +117,9 @@ author:
   avatar           : "/images/IMG_5038.jpg"
   bio              : "I am still not an **amazing** person."
   location         : "Edinburgh, UK"
-  email            :
+  email            : robert.young@ed.ac.uk
+  twitter          : "r0bah0lic"
+
   links:
     - label: "robert.young@ed.ac.uk"
       icon: "fas fa-fw fa-envelope-square"
