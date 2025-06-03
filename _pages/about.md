@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About us"
+excerpt: "About us"
 author_profile: true
 redirect_from: 
   - /about
   - /about.html
 ---
 
-Work in progress at building a lab website
+![Group trip to the Fringe](images/bristo_square2_Aug2023.png)
