@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 Principal Investigator:
-
 Rob Young
 
 PhD Students:   
