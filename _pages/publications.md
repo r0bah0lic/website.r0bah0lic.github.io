@@ -8,8 +8,6 @@ redirect_from:
   - /publications.html
 ---
 
-{% include base_path %}
-
 For a full list of publications, please visit my [Google Scholar profile].
 
 List of publications:
