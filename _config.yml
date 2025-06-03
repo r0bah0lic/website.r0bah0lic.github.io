@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : &name "Dr Robert Young"
+name                     : &name "Rob Young"
 description              : &description "Young lab at UoE and ZJE"
 url                      : https://r0bah0lic.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,11 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rob Young"
+  name             : "Dr Rob Young"
   avatar           : "images/IMG_5038.jpeg"
   bio              : "Lecturer."
   location         : "Edinburgh, UK"
   email            : robert.young@ed.ac.uk
+  googlescholar    : "https://scholar.google.com/citations?user=QvmViM0AAAAJ"
+  github           : "r0bah0lic"
+  linkedin         : "rob-young-9804a780"
+  orcid            : "http://orcid.org/0000-0002-8300-8002"
   twitter          : "r0bah0lic"
 
   links:
