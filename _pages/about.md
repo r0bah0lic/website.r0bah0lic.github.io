@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-![Group trip to the Fringe](images/bristo_square2_Aug2023.png)
+![Group trip to the Fringe](/images/bristo_square2_Aug2023.png)
