@@ -114,8 +114,8 @@ analytics:
 # Site Author
 author:
   name             : "Rob Young"
-  avatar           : "/images/IMG_5038.jpg"
-  bio              : "I am still not an **amazing** person."
+  avatar           : "IMG_5038.jpg"
+  bio              : "I might be an **amazing** person."
   location         : "Edinburgh, UK"
   email            : robert.young@ed.ac.uk
   twitter          : "r0bah0lic"
