@@ -8,7 +8,7 @@ redirect_from:
   - /groupmembers.html
 ---
 
-Principal Investigator:
+Principal Investigator:  
 Rob Young
 
 PhD Students:   
