@@ -43,7 +43,3 @@ Alexander Nassar
 Aimee Ramgolam  
 Megan Hartnett  
 Katherine Edington  
-
-**Contact:** [robert.young@ed.ac.uk](mailto:robert.young@ed.ac.uk)
-  
-**Twitter:** [@r0bah0lic](https://twitter.com/r0bah0lic)
