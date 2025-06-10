@@ -8,9 +8,9 @@ redirect_from:
   - /cv.html
 ---
 
-Dr Robert S Young
-Centre for Global Health, Usher Institute, Usher Building, University of Edinburgh, 5-7 Little France Road, Edinburgh BioQuarter – Gate 3, Edinburgh, EH16 4UX, UK
-Zhejiang University - University of Edinburgh (ZJE) Institute, Zhejiang University - International Campus, 718 East Haizhou Road, Haining, P.R. China
+Dr Robert S Young  
+Centre for Global Health, Usher Institute, Usher Building, University of Edinburgh, 5-7 Little France Road, Edinburgh BioQuarter – Gate 3, Edinburgh, EH16 4UX, UK  
+Zhejiang University - University of Edinburgh (ZJE) Institute, Zhejiang University - International Campus, 718 East Haizhou Road, Haining, P.R. China  
 
 EMPLOYMENT
 
