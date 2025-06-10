@@ -18,13 +18,29 @@ Principal Investigator:
      </tr>
     </table>
     </div>
+    
+PhD Students: 
+<div align="left">
+    <table >
+     <tr>
+       <td><img src="/images/RY_profile.jpeg" alt="Image description" style="width: 150px; height: auto; margin-right: 20px;"></td>
+        <td>Shenyi Zhang</td>
+     </tr>
+           <tr>
+       <td><img src="/images/RY_profile.jpeg" alt="Image description" style="width: 150px; height: auto; margin-right: 20px;"></td>
+        <td>Caitlin McNiff</td>
+     </tr>
+           <tr>
+       <td><img src="/images/RY_profile.jpeg" alt="Image description" style="width: 150px; height: auto; margin-right: 20px;"></td>
+        <td>Natasha Arzoo</td>
+     </tr>
+           <tr>
+       <td><img src="/images/RY_profile.jpeg" alt="Image description" style="width: 150px; height: auto; margin-right: 20px;"></td>
+        <td>Junping Shi</td>
+     </tr>
+    </table>
+    </div>
 
-
-PhD Students:   
-Shenyi Zhang  
-Caitlin McNiff  
-Natasha Arzoo  
-Junping Shi  
 
 PhD students co-supervised at ZJE:  
 Yashi Gu  
