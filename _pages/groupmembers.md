@@ -10,21 +10,15 @@ redirect_from:
 
 Principal Investigator:  
 
-<div style="display: flex; align-items: center;">
-  <img src="/images/RY_profile.jpeg" alt="Description" style="width: 300px; height: auto; margin-right: 20px;">
-  <p>
-    This is the text that appears to the right of the image. You can style this however you want.
-  </p>
+<div style="display: flex; align-items: flex-start; max-width: 800px;">
+  <img src="/images/RY_profile.jpeg" alt="Image description" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+    <h3>Your Heading</h3>
+    <p>
+      This is the text that appears to the right of the image. You can include multiple lines, links, or other elements.
+    </p>
+  </div>
 </div>
-
-<div style="display: flex; align-items: center;">
-
-<img src="/images/RY_profile.jpeg" alt="Description" style="width: 400px; margin-right: 20px;" />
-
-This is the text that appears to the right of the image. You can style this however you want.
-
-</div>
-
 
 PhD Students:   
 Shenyi Zhang  
