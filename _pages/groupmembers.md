@@ -10,6 +10,10 @@ redirect_from:
 
 Principal Investigator:  
 
+| Photo | Name | Bio |
+|-----------|-----|----------|
+| ![](/images/RY_profile.jpeg) | Rob | Bio |
+
 
 <div style="display: flex; align-items: flex-start; max-width: 800px;">
   <img src="/images/RY_profile.jpeg" alt="Image description" style="width: 200px; height: auto; margin-right: 20px;">
