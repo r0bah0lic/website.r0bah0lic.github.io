@@ -14,16 +14,16 @@ Zhejiang University - University of Edinburgh (ZJE) Institute, Zhejiang Universi
 
 EMPLOYMENT
 
-May 2019 – date,	Biomedical Sciences Teaching Organisation	
+May 2019 – date,	Biomedical Sciences Teaching Organisation  
 •	Lecturer (Zhejiang)	University of Edinburgh  
-Jan 2012 – April 2019, MRC Human Genetics Unit, University of Edinburgh
-•	Post-doctoral Research Associate
+Jan 2012 – April 2019, MRC Human Genetics Unit, University of Edinburgh  
+•	Post-doctoral Research Associate  
 •	Supervisor: Prof Martin Taylor  
-Aug 2011 – Dec 2011, MRC Functional Genomics Unit, University of Oxford
-•	Pre-doctoral Research Associate	MRC 
+Aug 2011 – Dec 2011, MRC Functional Genomics Unit, University of Oxford  
+•	Pre-doctoral Research Associate  
 •	Supervisor: Prof Chris Ponting  
-Nov 2006 – June 2007, Institute of Evolutionary Biology, University of Edinburgh
-•	Research Assistant
+Nov 2006 – June 2007, Institute of Evolutionary Biology, University of Edinburgh  
+•	Research Assistant  
 •	Supervisor: Prof Frank Jiggins
 
 EDUCATION
