@@ -13,7 +13,7 @@ Principal Investigator:
 <div align="left">
     <table >
      <tr>
-        <td style="border: none;">
+        <td>
        <td><img src="/images/RY_profile.jpeg" alt="Image description" style="width: 150px; height: auto; margin-right: 20px;">
        </td>
       <td style="border: none;">
@@ -23,10 +23,10 @@ Principal Investigator:
     </table>
 </div>
     
-PhD Students: 
-Shenyi Zhang
-Caitlin McNiff
-Natasha Arzoo
+PhD Students:  
+Shenyi Zhang  
+Caitlin McNiff  
+Natasha Arzoo  
 Junping Shi
 
 PhD students co-supervised at ZJE:  
