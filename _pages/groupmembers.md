@@ -12,7 +12,7 @@ Principal Investigator:
 
 <div style="display: flex; align-items: center;">
 
-<img src="/images/RY_profile.jpeg" alt="Description" style="width: 50px; margin-right: 20px;" />
+<img src="/images/RY_profile.jpeg" alt="Description" style="width: 200px; margin-right: 20px;" />
 
 This is the text that appears to the right of the image. You can style this however you want.
 
