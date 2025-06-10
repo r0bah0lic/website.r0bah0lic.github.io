@@ -12,33 +12,18 @@ redirect_from:
 
 Principal Investigator:
 
-<div class="float-container">
-    border: 3px solid #fff;
-    padding: 20px;
-    <div class="float-child">
-    <div class="green">Float Column 1</div>
-  </div>
-  
-  <div class="float-child">
-    width: 50%;
-    float: left;
-    padding: 20px;
-    border: 2px solid red;
-    <div class="blue">Float Column 2</div>
-  </div>
-</div>
-
-.float-container {
-    border: 3px solid #fff;
-    padding: 20px;
-}
-.float-child {
-    width: 50%;
-    float: left;
-    padding: 20px;
-    border: 2px solid red;
-}  
-
+div align="center">
+    <table >
+     <tr>
+        <td><b>Latest Tweets</b></td>
+        <td><b>daily.dev</b></td>
+     </tr>
+     <tr>
+       <td><a href="https://twitter.com/sunilsapkota09"><img src="https://github-readme-twitter-gazf.vercel.app/api?id=sunilsapkota09" alt="sunil sapkota twitter" > </img></a></td>
+        <td> <a href="https://app.daily.dev/sunil-9"><img src="https://api.daily.dev/devcards/426421ecec8c4819927d5698b72edced.png?r=5tr" width="400" alt="sunil sapkota's Dev Card"/></a></td>
+     </tr>
+    </table>
+    </div>
 
 <div style="display: flex; align-items: flex-start; max-width: 800px;">
   <img src="/images/RY_profile.jpeg" alt="Image description" style="width: 200px; height: auto; margin-right: 20px;">
