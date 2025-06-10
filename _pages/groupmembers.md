@@ -13,11 +13,17 @@ redirect_from:
 Principal Investigator:
 
 <div class="float-container">
-  <div class="float-child">
+    border: 3px solid #fff;
+    padding: 20px;
+    <div class="float-child">
     <div class="green">Float Column 1</div>
   </div>
   
   <div class="float-child">
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
     <div class="blue">Float Column 2</div>
   </div>
 </div>
