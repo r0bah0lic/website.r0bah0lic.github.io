@@ -10,20 +10,9 @@ redirect_from:
 
 Principal Investigator:
 
-<table style="border: none;">
-  <tr>
-    <th style="border: none;">Name</th>
-    <th style="border: none;">Age</th>
-  </tr>
-  <tr>
-    <td style="border: none;">Alice</td>
-    <td style="border: none;">30</td>
-  </tr>
-</table>
-
 | Photo | Name | Bio |
 |-----------|-----|----------|
-| ![](/images/RY_profile.jpeg) | Rob | Bio |
+| <img src="/images/RY_profile.jpeg" alt="Image description" style="width: 200px; height: auto;"> | Rob | Bio |
 
 
 <div style="display: flex; align-items: flex-start; max-width: 800px;">
