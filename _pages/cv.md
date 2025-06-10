@@ -1,7 +1,7 @@
 ---
 permalink: /cv/
 title: "Dr Robert S Young"
-excerpt: "Dr Robert S Young"
+excerpt: "CV"
 author_profile: true
 redirect_from: 
   - /cv
