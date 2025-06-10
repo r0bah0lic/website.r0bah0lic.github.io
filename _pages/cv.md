@@ -13,7 +13,7 @@ Zhejiang University - University of Edinburgh (ZJE) Institute, Zhejiang Universi
 
 EMPLOYMENT
 
-May 2019 – date,	Biomedical Sciences Teaching Organisation  
+May 2019 – date,	Biomedical Sciences Teaching Organisation, University of Edinburgh   
 •	Lecturer (Zhejiang)	University of Edinburgh 
 
 Jan 2012 – April 2019, MRC Human Genetics Unit, University of Edinburgh  
