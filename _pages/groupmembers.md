@@ -8,14 +8,11 @@ redirect_from:
   - /groupmembers.html
 ---
 
-figure {
-  display: flex;
-  align-items: center;
-}
-
 Principal Investigator:  
 
-![Rob Young](/images/RY_profile.jpeg)
+| [Rob Young](/images/RY_profile.jpeg) | 
+|:--:| 
+| *Space* |
 
 PhD Students:   
 Shenyi Zhang  
