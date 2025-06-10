@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Sometimes we go out! 
+Sometimes we go out2! 
 
-<img src="https://github.com/r0bah0lic/r0bah0lic.github.io/blob/master/images/bristo_square2_Aug2023.png" width="50" />
-
-![Group trip to the Fringe](/images/bristo_square2_Aug2023.png)
+![Group trip to the Fringe](/images/bristo_square2_Aug2023.png){width=50}
