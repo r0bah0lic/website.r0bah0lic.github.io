@@ -1,3 +1,9 @@
+<style>
+  table, th, td {
+    border: none;
+  }
+</style>
+
 ---
 permalink: /groupmembers/
 title: "Group members"
@@ -7,12 +13,6 @@ redirect_from:
   - /groupmembers
   - /groupmembers.html
 ---
-
-<style>
-  table, th, td {
-    border: none;
-  }
-</style>
 
 Principal Investigator:
 
