@@ -1,8 +1,4 @@
-<style>
-  table, th, td {
-    border: none;
-  }
-</style>
+
 
 ---
 permalink: /groupmembers/
@@ -12,6 +8,12 @@ author_profile: true
 redirect_from: 
   - /groupmembers
   - /groupmembers.html
+
+<style>
+  table, th, td {
+    border: none;
+  }
+</style>
 ---
 
 Principal Investigator:
