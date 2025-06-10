@@ -10,9 +10,10 @@ redirect_from:
 
 Principal Investigator:  
 
-<div style="text-align: left;">
+<figure style="text-align: left;">
 <img src="/images/RY_profile.jpeg" alt="drawing" width="200"/>
-</div>
+  <figcaption>Rob Young</figcaption>
+</figure>
 
 PhD Students:   
 Shenyi Zhang  
