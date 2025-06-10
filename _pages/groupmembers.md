@@ -16,34 +16,17 @@ Principal Investigator:
         <td style="border: none;">
        <td><img src="/images/RY_profile.jpeg" alt="Image description" style="width: 150px; height: auto; margin-right: 20px;"></td>
       <td style="border: none;">
-        <strong>Rob</strong> is doing something really interesting here
+        <strong>Rob</strong> is doing something really quite interesting here
       </td>    
      </tr>
     </table>
-    </div>
+</div>
     
 PhD Students: 
-<div align="left">
-    <table >
-     <tr>
-       <td><img src="/images/bristo_square2_Aug2023.png" alt="Image description" style="width: 100px; height: auto; margin-right: 20px;"></td>
-        <td>Shenyi Zhang</td>
-     </tr>
-           <tr>
-       <td><img src="/images/bristo_square2_Aug2023.png" alt="Image description" style="width: 100px; height: auto; margin-right: 20px;"></td>
-        <td>Caitlin McNiff</td>
-     </tr>
-           <tr>
-       <td><img src="/images/bristo_square2_Aug2023.png" alt="Image description" style="width: 100px; height: auto; margin-right: 20px;"></td>
-        <td>Natasha Arzoo</td>
-     </tr>
-           <tr>
-       <td><img src="/images/bristo_square2_Aug2023.png" alt="Image description" style="width: 100px; height: auto; margin-right: 20px;"></td>
-        <td>Junping Shi</td>
-     </tr>
-    </table>
-    </div>
-
+Shenyi Zhang
+Caitlin McNiff
+Natasha Arzoo
+Junping Shi
 
 PhD students co-supervised at ZJE:  
 Yashi Gu  
