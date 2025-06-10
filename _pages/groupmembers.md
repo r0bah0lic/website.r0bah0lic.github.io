@@ -10,12 +10,11 @@ redirect_from:
 
 Principal Investigator:
           
-
 <div align="left">
     <table >
      <tr>
        <td><img src="/images/RY_profile.jpeg" alt="Image description" style="width: 150px; height: auto; margin-right: 20px;"></td>
-        <td> Rob is doing something here</td>
+        <td> Rob is doing something interesting here</td>
      </tr>
     </table>
     </div>
