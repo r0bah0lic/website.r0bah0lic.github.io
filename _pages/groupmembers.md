@@ -11,7 +11,7 @@ redirect_from:
 Principal Investigator:
           
 <div align="left">
-    <table >
+    <table>
      <tr>
         <td>
        <td><img src="/images/RY_profile.jpeg" alt="Image description" style="width: 150px; height: auto; margin-right: 20px;">
