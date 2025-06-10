@@ -1,5 +1,3 @@
-
-
 ---
 permalink: /groupmembers/
 title: "Group members"
