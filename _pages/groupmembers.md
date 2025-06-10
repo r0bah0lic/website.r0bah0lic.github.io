@@ -15,10 +15,6 @@ Principal Investigator:
 <div align="center">
     <table >
      <tr>
-        <td><b></b></td>
-        <td><b></b></td>
-     </tr>
-     <tr>
        <td><img src="/images/RY_profile.jpeg" alt="Image description" style="width: 200px; height: auto; margin-right: 20px;"></td>
         <td> Write something boring</td>
      </tr>
