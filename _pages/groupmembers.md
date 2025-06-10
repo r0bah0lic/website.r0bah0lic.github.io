@@ -10,9 +10,12 @@ redirect_from:
 
 Principal Investigator:  
 
-| [Rob Young](/images/RY_profile.jpeg) | 
-|:--:| 
-| *Space* |
+<div style="display: flex; align-items: center;">
+  <img src="/images/RY_profile.jpeg" alt="Description" style="width: 200px; height: auto; margin-right: 20px;">
+  <p>
+    This is the text that appears to the right of the image. You can style this however you want.
+  </p>
+</div>
 
 PhD Students:   
 Shenyi Zhang  
