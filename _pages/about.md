@@ -10,4 +10,7 @@ redirect_from:
 
 Sometimes we go out2! 
 
-![Group trip to the Fringe](/images/bristo_square2_Aug2023.png){width=50}
+<img src="/images/bristo_square2_Aug2023.png" alt="drawing" width="50"/>
+
+
+![Group trip to the Fringe](/images/bristo_square2_Aug2023.png)
