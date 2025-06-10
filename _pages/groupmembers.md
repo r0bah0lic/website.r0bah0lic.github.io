@@ -8,22 +8,20 @@ author_profile: true
 redirect_from: 
   - /groupmembers
   - /groupmembers.html
-
-
 ---
 
 Principal Investigator:
 
-<style>
-  table, th, td {
-    border: none;
-  }
-</style>
-
-|  |  |  |
-|-----------|-----|----------|
-| <img src="/images/RY_profile.jpeg" alt="Image description" style="width: 200px; height: auto;"> | Rob | Bio |
-
+<div class="float-container">
+  <div class="float-child">
+    <div class="green">Float Column 1</div>
+  </div>
+  
+  <div class="float-child">
+    <div class="blue">Float Column 2</div>
+  </div>
+  
+</div>
 
 <div style="display: flex; align-items: flex-start; max-width: 800px;">
   <img src="/images/RY_profile.jpeg" alt="Image description" style="width: 200px; height: auto; margin-right: 20px;">
