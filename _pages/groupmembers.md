@@ -8,7 +8,18 @@ redirect_from:
   - /groupmembers.html
 ---
 
-Principal Investigator:  
+Principal Investigator:
+
+<table style="border: none;">
+  <tr>
+    <th style="border: none;">Name</th>
+    <th style="border: none;">Age</th>
+  </tr>
+  <tr>
+    <td style="border: none;">Alice</td>
+    <td style="border: none;">30</td>
+  </tr>
+</table>
 
 | Photo | Name | Bio |
 |-----------|-----|----------|
