@@ -9,16 +9,18 @@ redirect_from:
   - /groupmembers
   - /groupmembers.html
 
+
+---
+
+Principal Investigator:
+
 <style>
   table, th, td {
     border: none;
   }
 </style>
----
 
-Principal Investigator:
-
-| Photo | Name | Bio |
+|  |  |  |
 |-----------|-----|----------|
 | <img src="/images/RY_profile.jpeg" alt="Image description" style="width: 200px; height: auto;"> | Rob | Bio |
 
