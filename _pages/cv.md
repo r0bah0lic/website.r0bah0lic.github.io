@@ -11,7 +11,7 @@ redirect_from:
 Centre for Global Health, Usher Institute, Usher Building, University of Edinburgh, 5-7 Little France Road, Edinburgh BioQuarter – Gate 3, Edinburgh, EH16 4UX, UK  
 Zhejiang University - University of Edinburgh (ZJE) Institute, Zhejiang University - International Campus, 718 East Haizhou Road, Haining, P.R. China  
 
-EMPLOYMENT
+**EMPLOYMENT**
 
 May 2019 – date,	Biomedical Sciences Teaching Organisation, University of Edinburgh   
 •	Lecturer (Zhejiang)
@@ -28,7 +28,7 @@ Nov 2006 – June 2007, Institute of Evolutionary Biology, University of Edinbur
 •	Research Assistant  
 •	Supervisor: Prof Frank Jiggins
 
-EDUCATION
+**EDUCATION**
 
 Nov 2019 – Feb 2021  
 •	Fellowship of the Higher Education Academy (Edinburgh Teaching Award)  
@@ -46,16 +46,7 @@ Oct 2002 – June 2005, Trinity Hall, University of Cambridge
 •	BA Hons Natural Sciences (Genetics)	Trinity Hall  
 •	First Class	University of Cambridge
 
-TEACHING & EDUCATION PROVISION
-
-•	Deliver lectures, practicals and tutorials across the Biomedical Informatics undergraduate degree programme at the Zhejiang University – University of Edinburgh (ZJE) Institute.  
-•	Mark assessments (exams, essays, data analysis reports, presentations) across all courses where I deliver teaching at ZJE.  
-•	Designed and presented workshop as part of the MRC Human Genetics Unit PhD student training programme describing the BEDTools bioinformatics tools.  
-•	Supervised 16 Honours students (five UoE, 11 ZJE), frequently collaborating with experimental colleagues in projects focused on cancer and fungal genomics.  
-•	Designed projects and supervised seven UoE taught MSc students in ‘Quantitative Genetics and Genome Analysis’ and ‘Bioinformatics’. 
-•	Nominated for EUSA ‘Supervisor of the Year’ in 2020, 2022. 
-
-RESEARCH
+**RESEARCH**
 
 •	Currently lead an independent, productive research programme of undergraduate and postgraduate students using functional, population and evolutionary genomics to investigate the noncoding regulation of medical phenotypes and disease risk.  
 •	Regular reviewer for journals including BioEssays, BMC Genomics, Genome Biology & Evolution, Genome Research, Nucleic Acids Research, PLOS Genetics. 
@@ -69,26 +60,34 @@ RESEARCH
 •	Supervised one UoE MScR student in Infectious Diseases (Dissertation title: The Evolution of Covid-19 susceptibility and severity: did our evolutionary past drive genetics vulnerability to the pandemic?), 2021-22.  
 •	Supervised four ZJE MScR students in Integrative Biomedical Sciences, 2021-2024. 
 
-KNOWLEDGE EXCHANGE AND IMPACT
+**TEACHING & EDUCATION PROVISION**
+
+•	Deliver lectures, practicals and tutorials across the Biomedical Informatics undergraduate degree programme at the Zhejiang University – University of Edinburgh (ZJE) Institute.  
+•	Mark assessments (exams, essays, data analysis reports, presentations) across all courses where I deliver teaching at ZJE.  
+•	Designed and presented workshop as part of the MRC Human Genetics Unit PhD student training programme describing the BEDTools bioinformatics tools.  
+•	Supervised 16 Honours students (five UoE, 11 ZJE), frequently collaborating with experimental colleagues in projects focused on cancer and fungal genomics.  
+•	Designed projects and supervised seven UoE taught MSc students in ‘Quantitative Genetics and Genome Analysis’ and ‘Bioinformatics’. 
+•	Nominated for EUSA ‘Supervisor of the Year’ in 2020, 2022. 
+
+**KNOWLEDGE EXCHANGE AND IMPACT**
 
 •	Committee member for the UK Molecular Epidemiology Group since 2021. I helped organise a UK-wide conference in Edinburgh (2022) and ran an online flash-task competition for early-career researchers (2024).  
 •	Provide mentorship (total number = 6) and interview practice (total number = 7) for CAMScot, an initiative to support Scottish state school pupils applying to Cambridge University.  
 •	Regular volunteer for 4273pi, an organisation based at Edinburgh University which provides training in bioinformatics for high schools in the south of Scotland.  
 
-ACADEMIC LEADERSHIP AND MANAGEMENT 
+**ACADEMIC LEADERSHIP AND MANAGEMENT**
 
 •	Course organiser for ‘Introduction to Biomedical Informatics 1’, a 20-credit course with 64 students run in semester 2 at ZJE.  
 •	Member of the Course Assessment Group for courses at ZJE, including ‘Applied Data Science 2’ and ‘Genomics and Proteomics 2’.  
 •	Member of the ZJE Special Circumstances Committee, 2022-24.  
 •	Chair of PhD Thesis Committees at UoE (n = 1) and ZJE (n = 3).  
 
-EXTERNAL RECOGNITION/ESTEEM
+**EXTERNAL RECOGNITION/ESTEEM**
 
 •	Trainee Award for Platform Presentation at the Human Genome Meeting, 2018.  
 •	Full member of the UK Genetics Society since 2016.  
 
-ORAL PRESENTATIONS
-
+**ORAL PRESENTATIONS**
 
 2024   *Quantitative Genetics and Genomics, Aarhus University	Online  
 2023   *FANTOM6 Autumn Meeting	Milan, Italy  
@@ -103,9 +102,9 @@ ORAL PRESENTATIONS
 2015   *FANTOM6 Strategy Meeting	Yokohama, Japan  
 2014   Next Generation Sequencing Bioinformatics User Group	Aberdeen, UK  
 2011   Oxford Fly Club	Oxford, UK  
-       * Invited speaker
+\* Invited speaker
 
-POSTER PRESENTATIONS
+**POSTER PRESENTATIONS**
 
 2024  One Health Genomics Edinburgh Community Meeting	Edinburgh, UK  
 2022  **American Society of Human Genetics Annual Meeting	Los Angeles, USA  
@@ -117,7 +116,7 @@ POSTER PRESENTATIONS
 2009  Biology of Genomes	Cold Spring Harbor, NY, USA  
 ** Reviewers’ Choice Abstract for top 10% abstracts  
 
-PUBLICATIONS
+**PUBLICATIONS**
 
 * Teng J, Lin Q, Bai Z… **Young RS**… Fang L. The Farm Animal Genotype-Tissue Expression (FarmGTEx) Project (2025). Nature Genetics 57 (4): 786-96. doi: [10.1038/s41588-025-02121-5](https://doi.org/10.1038/s41588-025-02121-5).  
 * Yu H, Wang Z, Ma J... **Young RS**... Chen D. The Establishment and Regulation of Human Germ Cell Lineage (2025). Stem Cell Research & Therapy 16 (1): 139. doi: [10.1186/s13287-025-04171-2](https://doi.org/10.1186/s13287-025-04171-2).  
