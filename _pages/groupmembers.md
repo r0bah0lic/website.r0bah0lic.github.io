@@ -8,6 +8,12 @@ redirect_from:
   - /groupmembers.html
 ---
 
+<style>
+  table, th, td {
+    border: none;
+  }
+</style>
+
 Principal Investigator:
 
 | Photo | Name | Bio |
