@@ -13,8 +13,11 @@ Principal Investigator:
 <div align="left">
     <table >
      <tr>
+        <td style="border: none;">
        <td><img src="/images/RY_profile.jpeg" alt="Image description" style="width: 150px; height: auto; margin-right: 20px;"></td>
-        <td> **Rob** is doing something interesting here</td>
+      <td style="border: none;">
+        <strong>Rob</strong> is doing something really interesting here
+      </td>    
      </tr>
     </table>
     </div>
