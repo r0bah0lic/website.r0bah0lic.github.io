@@ -10,15 +10,17 @@ redirect_from:
 
 Principal Investigator:  
 
+
 <div style="display: flex; align-items: flex-start; max-width: 800px;">
   <img src="/images/RY_profile.jpeg" alt="Image description" style="width: 200px; height: auto; margin-right: 20px;">
   <div>
     <h3>Your Heading</h3>
     <p>
-      This is the text that appears to the right of the image. You can include multiple lines, links, or other elements.
+      This is the text that should appear to the right of the image. You can include multiple lines, links, or other elements.
     </p>
   </div>
 </div>
+
 
 PhD Students:   
 Shenyi Zhang  
