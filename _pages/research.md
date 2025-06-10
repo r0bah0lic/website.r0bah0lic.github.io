@@ -18,3 +18,5 @@ The causes and consequences of functional turnover of human promoters and enhanc
 
 The functional importance of RNA-DNA interactions in regulating molecular phenotypes and disease risk
 
+How do biomedical scientsists feel about learning computer programming?
+
