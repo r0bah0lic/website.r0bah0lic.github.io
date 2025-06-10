@@ -11,7 +11,7 @@ redirect_from:
 Principal Investigator:  
 
 <div style="display: flex; align-items: center;">
-  <img src="/images/RY_profile.jpeg" alt="Description" style="width: 200px; height: auto; margin-right: 20px;">
+  <img src="/images/RY_profile.jpeg" alt="Description" style="width: 300px; height: auto; margin-right: 20px;">
   <p>
     This is the text that appears to the right of the image. You can style this however you want.
   </p>
@@ -19,7 +19,7 @@ Principal Investigator:
 
 <div style="display: flex; align-items: center;">
 
-<img src="/images/RY_profile.jpeg" alt="Description" style="width: 200px; margin-right: 20px;" />
+<img src="/images/RY_profile.jpeg" alt="Description" style="width: 400px; margin-right: 20px;" />
 
 This is the text that appears to the right of the image. You can style this however you want.
 
