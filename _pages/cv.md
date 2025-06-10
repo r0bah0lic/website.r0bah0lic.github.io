@@ -1,6 +1,6 @@
 ---
 permalink: /cv/
-title: "CV"
+title: "Dr Robert S Young"
 excerpt: "Dr Robert S Young"
 author_profile: true
 redirect_from: 
@@ -27,17 +27,17 @@ Nov 2006 – June 2007, Institute of Evolutionary Biology, University of Edinbur
 
 EDUCATION
 
-Nov 2019 – Feb 2021
+Nov 2019 – Feb 2021  
 •	Fellowship of the Higher Education Academy (Edinburgh Teaching Award)  
-Oct 2007 – Aug 2011, Balliol College, University of Oxford
-•	DPhil in Physiology, Anatomy and Genetics	
-•	Supervisor: Prof Chris Ponting	
+Oct 2007 – Aug 2011, Balliol College, University of Oxford  
+•	DPhil in Physiology, Anatomy and Genetics  
+•	Supervisor: Prof Chris Ponting  
 •	Thesis title: Evolution and Function of long noncoding RNAs in Drosophila  
-Sep 2005 – Aug 2006, University of Edinburgh
-•	MSc in Quantitative Genetics and Genome Analysis	
+Sep 2005 – Aug 2006, University of Edinburgh  
+•	MSc in Quantitative Genetics and Genome Analysis  
 •	Dissertation title: Evidence of selection in the genome of Staphylococcus aureus  
-Oct 2002 – June 2005, Trinity Hall, University of Cambridge
-•	BA Hons Natural Sciences (Genetics)	Trinity Hall
+Oct 2002 – June 2005, Trinity Hall, University of Cambridge  
+•	BA Hons Natural Sciences (Genetics)	Trinity Hall  
 •	First Class	University of Cambridge
 
 TEACHING & EDUCATION PROVISION
@@ -78,7 +78,7 @@ ACADEMIC LEADERSHIP AND MANAGEMENT
 
 EXTERNAL RECOGNITION/ESTEEM
 
-•	Trainee Award for Platform Presentation at the Human Genome Meeting, 2018. 
+•	Trainee Award for Platform Presentation at the Human Genome Meeting, 2018.  
 •	Full member of the UK Genetics Society since 2016.  
 
 ORAL PRESENTATIONS
