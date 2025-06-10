@@ -8,7 +8,7 @@ redirect_from:
   - /research.html
 ---
 
-Population-specific promoters across individuals in the VIKING Health Study
+Transcriptional regulation in an isolated Scottish population
 
 Population-specificity of disease susceptibility and drug response
 
@@ -18,5 +18,5 @@ The causes and consequences of functional turnover of human promoters and enhanc
 
 The functional importance of RNA-DNA interactions in regulating molecular phenotypes and disease risk
 
-How do biomedical scientsists feel about learning computer programming?
+How do biomedical scientists feel about learning computer programming?
 
