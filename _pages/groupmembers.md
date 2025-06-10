@@ -12,6 +12,7 @@ figure {
   display: flex;
   align-items: center;
 }
+
 Principal Investigator:  
 
 <figure">
