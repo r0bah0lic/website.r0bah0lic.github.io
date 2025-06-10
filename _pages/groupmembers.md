@@ -8,10 +8,14 @@ redirect_from:
   - /groupmembers.html
 ---
 
+figure {
+  display: flex;
+  align-items: center;
+}
 Principal Investigator:  
 
-<figure style="text-align: left;">
-<img src="/images/RY_profile.jpeg" alt="drawing" width="200"/>
+<figure">
+<img src="/images/RY_profile.jpeg" alt="drawing" width="50"/>
   <figcaption>Rob Young</figcaption>
 </figure>
 
