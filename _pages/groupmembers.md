@@ -15,10 +15,7 @@ figure {
 
 Principal Investigator:  
 
-<figure">
-<img src="/images/RY_profile.jpeg" alt="drawing" width="50"/>
-  <figcaption>Rob Young</figcaption>
-</figure>
+![Rob Young](/images/RY_profile.jpeg)
 
 PhD Students:   
 Shenyi Zhang  
