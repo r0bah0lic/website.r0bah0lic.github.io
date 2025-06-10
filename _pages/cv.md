@@ -1,14 +1,13 @@
 ---
 permalink: /cv/
 title: "CV"
-excerpt: "CV"
+excerpt: "Dr Robert S Young"
 author_profile: true
 redirect_from: 
   - /cv
   - /cv.html
 ---
-
-Dr Robert S Young  
+  
 Centre for Global Health, Usher Institute, Usher Building, University of Edinburgh, 5-7 Little France Road, Edinburgh BioQuarter – Gate 3, Edinburgh, EH16 4UX, UK  
 Zhejiang University - University of Edinburgh (ZJE) Institute, Zhejiang University - International Campus, 718 East Haizhou Road, Haining, P.R. China  
 
@@ -52,16 +51,16 @@ TEACHING & EDUCATION PROVISION
 
 RESEARCH
 
-•	Currently lead an independent, productive research programme of undergraduate and postgraduate students using functional, population and evolutionary genomics to investigate the noncoding regulation of medical phenotypes and disease risk. 
+•	Currently lead an independent, productive research programme of undergraduate and postgraduate students using functional, population and evolutionary genomics to investigate the noncoding regulation of medical phenotypes and disease risk.  
 •	Regular reviewer for journals including BioEssays, BMC Genomics, Genome Biology & Evolution, Genome Research, Nucleic Acids Research, PLOS Genetics. 
 
-•	Awarded £1,800 as the Principal Investigator of Moray Endowment Fund Grant to pilot functional genomics CAGE technology in previously collected blood samples from the VIKING Genes Study, 2021. 
-•	Start-up funding of £14,000 associated with ZJE Lectureship to establish an independent research programme, 2019. 
+•	Awarded £1,800 as the Principal Investigator of Moray Endowment Fund Grant to pilot functional genomics CAGE technology in previously collected blood samples from the VIKING Genes Study, 2021.  
+•	Start-up funding of £14,000 associated with ZJE Lectureship to establish an independent research programme, 2019.  
 •	Principal author of ‘molecular phenotypes’ section of successful Taylor group application for £2.4 million core funding at the MRC Human Genetics Unit, University of Edinburgh, 2018-22.  
 •	Led successful application for a £500 Edinburgh University Small Grant to host the 4th Annual Scottish Biomedical Postdoctoral Researcher Conference, 2018.  
 
 •	Primary supervisor for two UoE PhD students; co-supervisor for one UoE PhD student; and co-supervisor for six ZJE PhD students.  
-•	Supervised one UoE MScR student in Infectious Diseases (Dissertation title: The Evolution of Covid-19 susceptibility and severity: did our evolutionary past drive genetics vulnerability to the pandemic?), 2021-22.
+•	Supervised one UoE MScR student in Infectious Diseases (Dissertation title: The Evolution of Covid-19 susceptibility and severity: did our evolutionary past drive genetics vulnerability to the pandemic?), 2021-22.  
 •	Supervised four ZJE MScR students in Integrative Biomedical Sciences, 2021-2024. 
 
 KNOWLEDGE EXCHANGE AND IMPACT
@@ -82,7 +81,9 @@ EXTERNAL RECOGNITION/ESTEEM
 •	Trainee Award for Platform Presentation at the Human Genome Meeting, 2018. 
 •	Full member of the UK Genetics Society since 2016.  
 
-Oral Presentations
+ORAL PRESENTATIONS
+
+
 2024   *Quantitative Genetics and Genomics, Aarhus University	Online  
 2023   *FANTOM6 Autumn Meeting	Milan, Italy  
 2023   FANTOM6 Spring Meeting	Milan, Italy  
@@ -96,17 +97,18 @@ Oral Presentations
 2015   *FANTOM6 Strategy Meeting	Yokohama, Japan  
 2014   Next Generation Sequencing Bioinformatics User Group	Aberdeen, UK  
 2011   Oxford Fly Club	Oxford, UK  
-* Invited speaker
+       * Invited speaker
 
-Poster presentations  
+POSTER PRESENTATIONS
+
 2024  One Health Genomics Edinburgh Community Meeting	Edinburgh, UK  
 2022  **American Society of Human Genetics Annual Meeting	Los Angeles, USA  
 2021  Human Evolution – From Fossils to Ancient and Modern Genomes	Online  
 2016  Scottish Biomedical Postdoctoral Research Conference	Edinburgh, UK  
-2016   Edinburgh Genomics Conference	Edinburgh, UK  
-2014   Chromatin: From Nucleosomes to Chromosomes	Cambridge, UK  
-2010   Drosophila Research Conference	Washington, DC, USA  
-2009   Biology of Genomes	Cold Spring Harbor, NY, USA  
+2016  Edinburgh Genomics Conference	Edinburgh, UK  
+2014  Chromatin: From Nucleosomes to Chromosomes	Cambridge, UK  
+2010  Drosophila Research Conference	Washington, DC, USA  
+2009  Biology of Genomes	Cold Spring Harbor, NY, USA  
 ** Reviewers’ Choice Abstract for top 10% abstracts  
 
 PUBLICATIONS
@@ -125,12 +127,12 @@ PUBLICATIONS
 *	Fernandez N*, Cordiner RA*, **Young RS**, Hug N, Macias S, Cáceras JF. Genetic variation and RNA structure regulate microRNA biogenesis (2017). Nature Communications 3 (8) 15114. doi: [10.1093/nar/gkx1009](https://doi.org/10.1093/nar/gkx1009).  
 *	**Young RS**. RNA meets DNA: The potential for gene expression to produce short RNA molecules capable of generating DNA mutation and driving genome evolution (Comment on DOI: 10.1002/bies.201700069) (2017). BioEssays 39 (10) 1700141. doi: [10.1002/bies.201700141](https://doi.org/10.1002/bies.201700141).  
 *	**Young RS**. Lineage-specific genomics: Frequent Birth and Death in the Human Genome (2016). BioEssays 38 (7) 654-663. doi: [10.1002/bies.201500192](https://doi.org/10.1002/bies.201500192).  
-*	Jubb AW*, **Young RS***, Hume DA, Bickmore WA. Enhancer turnover is associated with a divergent transcriptional response to glucocorticoid in mouse and human macrophages (2016). Journal of Immunology 196(2): 813-822. doi: [10.4049/jimmunol.1502009](https://doi.org/10.4049/jimmunol.1502009).  
+*	Jubb AW\*, **Young RS**\*, Hume DA, Bickmore WA. Enhancer turnover is associated with a divergent transcriptional response to glucocorticoid in mouse and human macrophages (2016). Journal of Immunology 196(2): 813-822. doi: [10.4049/jimmunol.1502009](https://doi.org/10.4049/jimmunol.1502009).  
 *	**Young RS**, Hayashizaki Y, Andersson R, Sandelin A, Kawaji H, Itoh M, Lassmann T, Carninci P, the FANTOM consortium, Bickmore WA, Forrest ARR, Taylor MS. The Frequent Evolutionary Birth and Death of Functional Promoters in Mouse and Human (2015). Genome Research 25(10): 1546-1557. doi: [10.1101/gr.190546.115](https://doi.org/10.1101/gr.190546.115).  
 *	Forrest ARR, Kawaji H, Rehli M… **Young RS**… Hayashizaki Y. A Promoter-Level Mammalian Expression Atlas (2014). Nature 507: 462-470. doi: [10.1038/nature13182](https://doi.org/10.1038/nature13182).  
 *	Mannion NM, Greenwood SM, **Young RS**… O’Connell MA. The RNA Editing Enzyme ADAR1 Controls Innate Immune Responses to RNA (2014): Cell Reports 9: 1-13. doi: [10.1016/j.celrep.2014.10.041](https://doi.org/10.1016/j.celrep.2014.10.041).  
 *	**Young RS** and Ponting CP. Identification and Function of long noncoding RNAs (2013). Essays in Biochemistry 54: 113-126. doi: [10.1042/bse0540113](https://doi.org/10.1042/bse0540113).  
 *	**Young RS**, Marques AC, Tibbit C, Bassett AR, Liu JL, Ponting CP. Identification and Characterisation of 1,119 lincRNA genes in Drosophila (2012). Genome Biology and Evolution 4(4): 427-442. doi: [10.1093/gbe/evs020](https://doi.org/10.1093/gbe/evs020).  
 *	Bangham J, Knott SA, Kim KW, **Young RS**, Jiggins FM. Genetic variation affecting host-parasite interactions: major-effect quantitative trait loci affect the transmission of sigma virus in Drosophila melanogaster (2008). Molecular Ecology 17: 3800-3807. doi: [10.1111/j.1365-294X.2008.03873.x](https://doi.org/10.1111/j.1365-294X.2008.03873.x).  
-*	Indicates co-first author
+\*	Indicates co-first author
 
