@@ -11,7 +11,7 @@ redirect_from:
 Principal Investigator:  
 
 <div style="text-align: left;">
-<img src="/images/RY_profile.jpeg" alt="drawing" width="50"/>
+<img src="/images/RY_profile.jpeg" alt="drawing" width="200"/>
 </div>
 
 PhD Students:   
