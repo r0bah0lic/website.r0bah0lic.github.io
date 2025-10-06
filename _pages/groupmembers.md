@@ -28,13 +28,15 @@ Shenyi Zhang
 Caitlin McNiff  
 Natasha Arzoo  
 Junping Shi
+Benjamin Fletcher (co-supervised with Prof. Jim Wilson)
 
 PhD students co-supervised at ZJE:  
 Yashi Gu  
 Xinyi Xu  
 Yueqing Xu  
 Yeyu Wei  
-Jiaqi Wang  
+Jiaqi Wang
+
 
 MSc Students:  
 Emily Bishop  
@@ -55,3 +57,4 @@ Alexander Nassar
 Aimee Ramgolam  
 Megan Hartnett  
 Katherine Edington  
+
